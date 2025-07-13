@@ -48,16 +48,5 @@
 
 ---
 
-✅ Final Step
-Just paste the content above into your profile repo’s README.md file:
 
-Create the special repo: QasimTareen
-
-Add a README.md file
-
-Paste the code above
-
-Commit and push
-
----
 
